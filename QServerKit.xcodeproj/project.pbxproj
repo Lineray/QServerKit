@@ -6,10 +6,15 @@
 	objectVersion = 46;
 	objects = {
 
+/* Begin PBXFileReference section */
+		18A4CD12198FD8A9000FC67D /* File.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; name = File.c; path = test/File.c; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		1890E1EC197C123E007808ED = {
 			isa = PBXGroup;
 			children = (
+				18A4CD12198FD8A9000FC67D /* File.c */,
 			);
 			sourceTree = "<group>";
 		};
@@ -21,7 +26,7 @@
 			attributes = {
 				LastUpgradeCheck = 0460;
 			};
-			buildConfigurationList = 1890E1F0197C123E007808ED /* Build configuration list for PBXProject "QServer" */;
+			buildConfigurationList = 1890E1F0197C123E007808ED /* Build configuration list for PBXProject "QServerKit" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -52,7 +57,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		1890E1F0197C123E007808ED /* Build configuration list for PBXProject "QServer" */ = {
+		1890E1F0197C123E007808ED /* Build configuration list for PBXProject "QServerKit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1890E1F1197C123E007808ED /* Debug */,
